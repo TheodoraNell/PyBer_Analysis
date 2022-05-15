@@ -41,7 +41,7 @@ Similar to the average ride fare, the average fare per driver is lowest in urban
 
 **Urban Driver Fare: $16.57 | Suburban Driver Fare: $39.50 | Rural Driver Fare: $55.49**
 
-### Total Fare by Week
+### Total Fares by City Type
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/99051640/168496255-43ead86c-096c-4a63-ac1f-dcfc2cd94208.png)
 
 When veiwed chronologically, The trend continues with Urban ares consistently having the highest total fares and Rural areas having the lowest. However, other trends can also be seen including similarities in increases across all city types during certain weeks (in February for example). It would be interesting to explore possible reasons for these increases (aside from widely celebrated holidays) There is also an apparent general increase in total fares for all city types across the selected time frame. This is likely due to seasonality and invites a deeper exploration into how the time of year affects rideshare demand. 
