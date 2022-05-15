@@ -12,27 +12,33 @@ The Purpose of this analysis is to explore Q1 data for a rideshare company and i
 ### Total Rides
 
 As seen in the dataframe, the number of total rides is highest in urban areas and lowest in rural areas.
+
 **Urban rides: 1,625 | Sburban rides: 625 | Rural rides 125**
 
 ### Total Drivers
 
 Like the data for total rides, the number of drivers was also highest in urban areas and lowest in rural areas.
+
 **Urban drivers: 2,405 | Suburban drivers 490 | Rural drivers 78**
+
 It is interesting to note that the number of urban drivers is hihger than the number of urban rides. The reason for this is unknown but it suggests that there are potentially more drivers than the damand requires in urban areas. 
 
 ### Total Fares
 
 This metric also continues the trend.
+
 **Urban fares: $39,854.38 | Suburban fares: $19,356.33 Rural fares: $4,327.93** 
 
 ### Average Ride Fare
 
 Unlike the other metircs, the average ride fare is lowest in urban areas and highest in rural areas.
+
 **Urban Average Fare: $24.53 | Suburban Average Fare: #30.97 | Rural Average Fare: $34.62**
 
 ### Average Driver Fare
 
-Similar to the average ride fare, the average fare per driver is lowest in urban areas and highest in rural areas. 
+Similar to the average ride fare, the average fare per driver is lowest in urban areas and highest in rural areas.
+
 **Urban Driver Fare: $16.57 | Suburban Driver Fare: $39.50 | Rural Driver Fare: $55.49**
 
 ### Total Fare by Week
