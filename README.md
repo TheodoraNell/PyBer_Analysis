@@ -3,7 +3,7 @@
 Performing an analysis on rideshare data using Pandas
 
 ## OVERVIEW
-The Purpose of this analysis is to explore Q1 data for a rideshare company and identify trends specific to different city types: Urban, Suburban, and Rural. The Summary section provides recommendations on how the company can address disparities among the different city types. 
+The Purpose of this analysis is to explore Q1 data for a rideshare company and identify trends specific to different city types: Urban, Suburban, and Rural. The [Summary section](https://github.com/TheodoraNell/PyBer_Analysis/blob/main/README.md#) summaryprovides recommendations on how the company can address disparities among the different city types. 
 
 ## RESULTS
 
